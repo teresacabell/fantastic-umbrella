@@ -11,17 +11,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@work.github.com:coding-boot-camp/module-13-challenge-orm.git"
+    "url": "git@github.com/teresacabell/fantastic-umbrella"
   },
   "keywords": [],
-  "author": "",
+  "author": "Teresa Schwirtlich",
   "license": "ISC",
   "devDependencies": {
     "nodemon": "^2.0.3"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
-    "express": "^4.17.1",
+    "express": "^4.17.2",
     "mysql2": "^2.3.3",
     "sequelize": "^5.22.5"
   }
